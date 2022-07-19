@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grid
+  - PuzzlePiece
+  - GridTileSensor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - GridLayer
+  - PieceLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2936638635
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GridLayer
+    uniqueID: 3730188103
+    locked: 0
+  - name: PieceLayer
+    uniqueID: 2260105013
+    locked: 0
